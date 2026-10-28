@@ -1,0 +1,271 @@
+{
+  "queriedAt": "2026-10-28T10:10:23.273Z",
+  "server": {
+    "name": "korean-secondary-learning-map",
+    "version": "0.3.0"
+  },
+  "tool": "get_standard",
+  "standards": [
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-01]",
+      "code": "[12생과01-01]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "생물 및 생명과학의 특성을 이해하고 생명과학의 성과를 협력적으로 소통하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-01]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.2e8acf2301a528d5bf28",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "생물 및 생명과학의 특성을 이해하고 생명과학의 성과를 협력적으로 소통할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.50cb7cd7b0b5cb552347",
+          "titleKorean": "생명과학 — 생물 및 생명과학의 특성을 이해하고 생명과학의 성과를 협력적으로 소통하기"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-02]",
+      "code": "[12생과01-02]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "세포에서부터 생태계까지 생명 시스템의 구성 단계의 특징을 바탕으로 체계적인 설명 자료를 만들 수 있다",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-02]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.f77b1612f3b193e8ac3b",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "세포에서부터 생태계까지 생명 시스템의 구성 단계의 특징을 바탕으로 체계적인 설명 자료를 만들 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.630be44dac475cb54a68",
+          "titleKorean": "생명과학 — 세포에서부터 생태계까지 생명 시스템의 구성 단계의 특징을 바탕으로 체계적인 설명 자료를 만들 수 있다"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-03]",
+      "code": "[12생과01-03]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "물질대사 과정에서의 에너지 전환 과정을 바탕으로 다양한 생명 활동에서의 에너지 사용을 추론하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-03]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.1f85ffe4e78248134f09",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "물질대사 과정에서의 에너지 전환 과정을 바탕으로 다양한 생명 활동에서의 에너지 사용을 추론할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.d6f3bcd668b3c0e188e1",
+          "titleKorean": "생명과학 — 물질대사 과정에서의 에너지 전환 과정을 바탕으로 다양한 생명 활동에서의 에너지 사용을 추론하기"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-04]",
+      "code": "[12생과01-04]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "소화, 순환, 호흡, 배설 과정이 기관계의 통합적 작용으로 나타남을 신체의 생리적 변 화와 연관지어 추론하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-04]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.7ee65d886b62f48171a7",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "소화, 순환, 호흡, 배설 과정이 기관계의 통합적 작용으로 나타남을 신체의 생리적 변 화와 연관지어 추론할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.cc15f0a747eec9798f71",
+          "titleKorean": "생명과학 — 소화, 순환, 호흡, 배설 과정이 기관계의 통합적 작용으로 나타남을 신체의 생리적 변 화와 연관지어 추론하기"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-05]",
+      "code": "[12생과01-05]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "물질대사 관련 질병 조사를 위한 방법을 고안하여 수행하고 대사성 질환을 예방하기 위한 올바른 생활 습관에 대해 토의하며 협력적으로 소통하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-05]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.25e7372d3cbee7c50602",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "물질대사 관련 질병 조사를 위한 방법을 고안하여 수행하고 대사성 질환을 예방하기 위한 올바른 생활 습관에 대해 토의하며 협력적으로 소통할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.2a066d801b23c6c9ff5e",
+          "titleKorean": "생명과학 — 물질대사 관련 질병 조사를 위한 방법을 고안하여 수행하고 대사성 질환을 예방하기 위한 올바른 생활 습관에 대해 토의하며 협력적으로 소통하기"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-06]",
+      "code": "[12생과01-06]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "생태계의 구조를 이해하고 물질의 순환과 에너지의 흐름을 추론하여 생태계 구성 요 소들의 중요성을 설명하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-06]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.957aa19f087b27c97a5c",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "생태계의 구조를 이해하고 물질의 순환과 에너지의 흐름을 추론하여 생태계 구성 요 소들의 중요성을 설명할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.0f5c8eb2555872c9c45f",
+          "titleKorean": "생명과학 — 생태계의 구조를 이해하고 물질의 순환과 에너지의 흐름을 추론하여 생태계 구성 요 소들의 중요성을 설명하기"
+        }
+      ],
+      "transitionCount": 0
+    },
+    {
+      "key": "kr-2022-high-생명과학:[12생과01-07]",
+      "code": "[12생과01-07]",
+      "schoolLevel": "high",
+      "gradeBand": "10-12",
+      "subjectKorean": "생명과학",
+      "domainKorean": "생명 시스템의 구성",
+      "summary": "개체군과 군집의 특성을 이해하고 이들의 상호작용의 예를 조사하여 발표하기",
+      "summaryKind": "mechanical-derivative",
+      "sourceRefs": [
+        "kr-nec-2024-3-annex9"
+      ],
+      "sourceLocator": {
+        "attachmentNo": "10004171",
+        "code": "[12생과01-07]",
+        "pdfPage": 140,
+        "printedPage": null,
+        "section": "생명과학 > 생명 시스템의 구성",
+        "sha256": "0cf53427691d54366d6805767c428a15b0e817580807b4354947de7e3b58b738",
+        "sourceId": "kr-nec-2024-3-annex9"
+      },
+      "deck6Id": "kr.standard.2022.high.12764dc6d823bdf46d13",
+      "curriculumId": "kr-2022-high-생명과학",
+      "officialText": "개체군과 군집의 특성을 이해하고 이들의 상호작용의 예를 조사하여 발표할 수 있다.",
+      "linkedTopics": [
+        {
+          "id": "kr.topic.2022.high.0f30a4007d6a35e12997",
+          "titleKorean": "생명과학 — 개체군과 군집의 특성을 이해하고 이들의 상호작용의 예를 조사하여 발표하기"
+        }
+      ],
+      "transitionCount": 0
+    }
+  ],
+  "verification": {
+    "source": "교육부 고시 제2022-33호 별책9 과학과 교육과정",
+    "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=141&boardSeq=93458&lev=0&search=",
+    "attachmentUrl": "https://www.moe.go.kr/boardCnts/fileDown.do?fileSeq=1512facbda6c234a1641ac7e9c156ca2&m=&s=moe",
+    "method": "Official HWP native text extraction with kordoc; compare all seven officialText strings ignoring whitespace",
+    "hwpSha256": "d049caa5b3e7420a0505345dc70ca325faf65a18468ba393eec103b44b78c790",
+    "checks": [
+      {
+        "code": "[12생과01-01]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-02]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-03]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-04]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-05]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-06]",
+        "matchesIgnoringWhitespace": true
+      },
+      {
+        "code": "[12생과01-07]",
+        "matchesIgnoringWhitespace": true
+      }
+    ]
+  }
+}
